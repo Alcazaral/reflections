@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-	it creates a repository for you new project, where all the files and commits are going to 		be stored
+	it creates a repository for you new project, where all the files and commits are going to 		be stored.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	it is a stage where you can decide if you are going to add or not something to your next 		commit, it may be usefull to decide wheter something can be divided intwo two or more 		commits.
