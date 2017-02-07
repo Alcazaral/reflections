@@ -6,4 +6,6 @@ How is the staging area different from the working directory and the repository?
 
 	it is a stage where you can decide if you are going to add or not something to your next 		commit, it may be usefull to decide wheter something can be divided intwo two or more 		commits. 
 
-this is a test for atom
+How can you use the staging area to make sure you have one commit per logical change?
+
+	you can check if you added just the file you want to commit with the changes. if you added 		one more by mistake you can clear but be very carefull to save the changes before clearing 		the commits.
