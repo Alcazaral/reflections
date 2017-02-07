@@ -9,3 +9,7 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	you can check if you added just the file you want to commit with the changes. if you added 		one more by mistake you can clear but be very carefull to save the changes before clearing 		the commits.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	If you create a different version of your game, lets say in a different world, or make 		dramatic changes that you want to keep away from the original version you can do this by 		branching this way you keep different versions of your code separated.
