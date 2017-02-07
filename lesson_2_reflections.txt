@@ -4,4 +4,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-	it is a stage where you can decide if you are going to add or not something to your next 		commit, it may be usefull to decide wheter something can be divided intwo two or more 		commits.
+	it is a stage where you can decide if you are going to add or not something to your next 		commit, it may be usefull to decide wheter something can be divided intwo two or more 		commits. 
+
+this is a test for atom
